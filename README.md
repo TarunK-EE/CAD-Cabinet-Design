@@ -1,6 +1,6 @@
 # CAD-Cabinet-Design
 
-In SolidWorks, an Cabniet was designed that can be manufactured in real-life. With seperate components being designed then assembled (ex. hinges, screws, drawer mechanisms)  Showing Engineering Design and CAD skill.
+In SolidWorks, an Cabinet was designed that can be manufactured in real-life. With seperate components being designed then assembled (ex. hinges, screws, drawer mechanisms)  Showing Engineering Design and CAD skill.
 
 Engineering Design:
 
@@ -20,6 +20,9 @@ CAD Components:
 
 <img src="https://github.com/TarunK-EE/CAD-Cabinet-Design/assets/129455344/6aa1a2b1-517a-4683-9245-0766fce09c93" width="500" height="500">
 <img src="https://github.com/TarunK-EE/CAD-Cabinet-Design/assets/129455344/9037e5af-dd8f-4c6d-bf69-29402a1b972a" width="500" height="500">
+
+FINAL CABINET:
+![image](https://github.com/TarunK-EE/CAD-Cabinet-Design/assets/129455344/4c216560-6af5-42c8-ad73-c307ac8be55f)
 
 
 
