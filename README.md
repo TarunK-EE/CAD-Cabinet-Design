@@ -9,4 +9,4 @@ Engineering Design:
 
 Engineering Drawings:
 
-<img src="https://github.com/TarunK-EE/CAD-Cabinet-Design/assets/129455344/8e9996d2-e333-490d-9393-86c4f1b4d262" width="350" height="300">
+<img src="https://github.com/TarunK-EE/CAD-Cabinet-Design/assets/129455344/8e9996d2-e333-490d-9393-86c4f1b4d262" width="500" height="500">
