@@ -18,7 +18,8 @@ Engineering Drawings:
 
 CAD Components:
 
-<img src="https://github.com/TarunK-EE/CAD-Cabinet-Design/assets/129455344/add091dd-f0b8-4e0a-a7a4-143841b297fc" width="450" height="450">
+![image](https://github.com/TarunK-EE/CAD-Cabinet-Design/assets/129455344/6aa1a2b1-517a-4683-9245-0766fce09c93)
+
 
 
 
