@@ -7,4 +7,6 @@ Engineering Design:
 <img src="https://github.com/TarunK-EE/CAD-Cabinet-Design/assets/129455344/3e0ac3dc-20fa-4483-813e-cd166ed54586" width="200" height="200">
 <img src="https://github.com/TarunK-EE/CAD-Cabinet-Design/assets/129455344/506184ae-3545-4f76-93d9-10d27c2eaccc" width="200" height="200">
 
+Engineering Drawings:
 
+<img src="https://github.com/TarunK-EE/CAD-Cabinet-Design/assets/129455344/8e9996d2-e333-490d-9393-86c4f1b4d262" width="200" height="200">
