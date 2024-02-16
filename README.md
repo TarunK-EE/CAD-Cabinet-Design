@@ -2,4 +2,4 @@
 
 In SolidWorks, an Cabniet was designed that can be manufactured in real-life. With seperate components being designed then assembled (ex. hinges, screws, drawer mechanisms)  Showing Engineering Design and CAD skill.
 
-![image](https://github.com/TarunK-EE/CAD-Cabinet-Design/assets/129455344/79066bad-315c-408b-b31e-fd9db1ad76f5 = 250x250)
+![](https://gyazo.com/a9ae596311b7f1ae25c427d475c54c03= 250x250)
